@@ -1,4 +1,4 @@
-# [Proyecto de tesis: Web tomacorriente inteligente]
+# Proyecto de tesis: Web tomacorriente inteligente
 
 Este es el repositorio que se usará para comunicar los tomacorrientes inteligentes por internet.
 
